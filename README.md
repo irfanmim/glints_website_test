@@ -14,9 +14,6 @@ Library:
 $ npm start
 ```
 
-### Screenshot
-![homepage](/screenshot/homepage.JPG)
-
 
 ## Backend (Django)
 Library:
@@ -40,3 +37,12 @@ $ python manage.py runserver
 
 
 
+
+### Screenshot
+![homepage](/screenshot/homepage.JPG)
+![search-result](/screenshot/search-result.JPG)
+![search-result-2](/screenshot/search-result-2.JPG)
+![list-of-collection](/screenshot/list-of-collection.JPG)
+![collection-detail](/screenshot/collection-detail.JPG)
+![add-collection](/screenshot/add-collection.JPG)
+![edit-collection](/screenshot/edit-collection.JPG)
