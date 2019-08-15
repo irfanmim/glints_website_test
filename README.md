@@ -15,7 +15,7 @@ $ npm start
 ```
 
 
-## Backend (Django)
+## Backend (Django & MySQL)
 Library:
   - Django Rest Framework
 
